@@ -1,6 +1,6 @@
 # GovernAI — Technical Design & Implementation Plan
 
-**Team:** Grishma George (Inventory & Database Lead) · Member 2 (Risk & Compliance Lead) · Member 3 (Monitoring & Audit Lead)
+**Team:** Member1 (Inventory & Database Lead) · Member 2 (Risk & Compliance Lead) · Member 3 (Monitoring & Audit Lead)
 **Timeline:** 3-day sprint, deliverable due Friday EOD
 
 ---
