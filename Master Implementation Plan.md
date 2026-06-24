@@ -363,4 +363,3 @@ Reuses the session user-identity dropdown already built for the audit log.
 
 ---
 
-*This document supersedes the three individual planning files. If a detail conflicts, this file wins. Update this file — not the originals — if decisions change during the sprint.*
