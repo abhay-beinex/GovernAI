@@ -118,7 +118,7 @@ Both example types named in the project scope are covered directly (Resume Scree
 ## 6. Revised 3-Day Timeline
 
 ### Day 1 (Wednesday)
--  joint schema review and sign-off on this design (open questions settled, schema changes in §2 confirmed).
+- Morning: joint schema review and sign-off on this design (open questions settled, schema changes in §2 confirmed).
 - Inventory Lead: `db_manager.py`, table creation, `seed_data.py` with the four sample systems.
 - Risk & Compliance Lead: framework mappings in `config/settings.py`, `risk_svc.py` skeleton.
 - Monitoring Lead: `monitoring_svc.py` skeleton, Simulate Ingestion button.
