@@ -36,11 +36,6 @@ To provide organizations with a centralized internal tool to inventory their AI 
 2. **Data Integrity:** Shared, normalized data model acting as the single source of truth.
 3. **Delivery:** Functional end-to-end flow over disconnected polished screens. Seeded with realistic sample data.
 
-**Assumptions & Ambiguities:**
-- *Assumption:* A single SQLite database file is sufficient for concurrent reads/writes given the expected MVP usage.
-- *Assumption:* "Compliance Status" is a derived state (e.g., Compliant, Non-Compliant, At Risk) influenced by both manual checklist completion and automated monitoring metrics.
-- *Ambiguity:* The exact questions for the risk questionnaire are not strictly defined; we will use standard representative EU AI Act criteria.
-
 ---
 
 ## STEP 2: Architecture Design
