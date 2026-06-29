@@ -81,7 +81,6 @@ To ensure we don't accidentally overwrite each other's code, we will use **Featu
 
 ## Next Steps & Task Distribution (Backend + Frontend)
 
-Because I laid out the foundation, the app works end-to-end, but it is very basic. Now we need to divide and conquer to flesh out the actual backend logic and frontend features.
 
 ### 👩‍💻 Aleena: LLM Integration & Risk Engine
 **Goal:** Implement the Mentor's stretch goal (LLM integration) and expand our risk backend logic.
